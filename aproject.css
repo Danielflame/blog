@@ -1,0 +1,71 @@
+body{
+	background-color:orange;
+
+}
+h1{
+	text-align:center;
+	color:lavender;
+	padding-left:30px;
+}
+marquee{
+	color:lavender; 
+}
+#main_section{
+	border:1 px lavender;
+	  width:500px;
+	  margin: 20px auto;
+
+}
+form li{
+	list-style:none;
+	color:; 
+	margin:20px;
+	font:linear-gradient(blue);
+	float:center;
+	border-radius:10px;
+
+}
+label{
+	border-radius:10px;
+}
+a.btn{
+	border:1px lavender;
+	margin:10px ;
+	width:500px;
+	padding-right:10px;
+	padding-left:10px;
+	border-radius:10px;
+	background-color:yellow;
+	text-decoration-style:none;
+	text-decoration:none;
+	color:;
+	text-align:center;
+	float:center;
+}
+a.btn:hover{
+             font-size:40px;
+             color:blue;
+             font-family:tahoma;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+#main_man{
+	text-align:center;
+}

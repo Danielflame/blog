@@ -1,0 +1,58 @@
+body{
+	background-color:orange;
+
+}
+h1{
+	text-align:center;
+	color:lavender;
+	font:bold 30px;
+}
+marquee{
+	color:lavender; 
+}
+#main_section{
+	border:10px;
+	width:600px;
+	margin:20px auto;
+
+}
+form li{
+	list-style:none;
+	color:; 
+	margin:20px;
+	font:linear-gradient(blue);
+	float:center;
+
+}
+#picture{
+	display:inline-block;
+    letter-spacing:30px;
+}
+a.btn{
+	border:1px solid lavender;
+	margin:10px;
+	width:10px ;
+	padding:8px;
+	background-color:yellow;
+	text-decoration-style:none;
+	text-decoration:none;
+	color:black;
+	border-radius:100px;
+	float:center;
+	background:linear-gradient(top,black,white);
+
+}
+#top{
+	border:1px solid lavender;
+	margin:100px;
+	width:100px ;
+	padding:8px;
+	background-color:yellow;
+	text-decoration-style:none;
+	text-decoration:none;
+	color:black;
+	-webkit-border-radius:100px;
+	float:center;
+	background:-webkit-linear-gradient(top,black,white);
+
+}

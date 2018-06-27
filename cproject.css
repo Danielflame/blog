@@ -1,0 +1,34 @@
+body{
+	background-color:orange;
+
+}
+h1{
+	text-align:center;
+	color:lavender;
+}
+marquee{
+	color:lavender; 
+}
+#main_section{
+	border:10px;
+	width:600px;
+	margin:20px auto;
+
+}
+form li{
+	list-style:none;
+	color:; 
+	margin:20px;
+	font:linear-gradient(blue);
+	float:center;
+
+}
+a.btn{
+	border:1px;
+	margin:10px;
+	text-decoration-style:none;
+	text-decoration:none;
+	color:;
+	text-align:center;
+}
+	
