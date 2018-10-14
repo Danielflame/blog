@@ -17,8 +17,7 @@ marquee{
 
 }
 form li{
-	list-style:none;
-	color:; 
+	list-style:none;c0lor:; 
 	margin:20px;
 	font:linear-gradient(blue);
 	float:center;
@@ -40,19 +39,5 @@ a.btn{
 	border-radius:100px;
 	float:center;
 	background:linear-gradient(top,black,white);
-
-}
-#top{
-	border:1px solid lavender;
-	margin:100px;
-	width:100px ;
-	padding:8px;
-	background-color:yellow;
-	text-decoration-style:none;
-	text-decoration:none;
-	color:black;
-	-webkit-border-radius:100px;
-	float:center;
-	background:-webkit-linear-gradient(top,black,white);
 
 }
